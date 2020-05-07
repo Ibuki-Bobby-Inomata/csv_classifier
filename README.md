@@ -5,4 +5,4 @@ This is a template to do data science and contains minimum required module and c
 # Requiremwnt
 
 * Python 3.7.0
-* TensorFlow 
+* TensorFlow 2.0
